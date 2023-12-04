@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/IsmNarmin13/api/static/css/main.1d59c2a4.css",
-    "main.js": "/IsmNarmin13/api/static/js/main.72c45531.js",
-    "index.html": "/IsmNarmin13/api/index.html",
-    "main.1d59c2a4.css.map": "/IsmNarmin13/api/static/css/main.1d59c2a4.css.map",
-    "main.72c45531.js.map": "/IsmNarmin13/api/static/js/main.72c45531.js.map"
+    "main.css": "/api/static/css/main.1d59c2a4.css",
+    "main.js": "/api/static/js/main.72c45531.js",
+    "index.html": "/api/index.html",
+    "main.1d59c2a4.css.map": "/api/static/css/main.1d59c2a4.css.map",
+    "main.72c45531.js.map": "/api/static/js/main.72c45531.js.map"
   },
   "entrypoints": [
     "static/css/main.1d59c2a4.css",
